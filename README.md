@@ -10,7 +10,7 @@ We will create the following backend services:
     Finance Service → Node.js (Express)
     HR Service → Python (Flask)
     Marketing Service → Java (Spring Boot)
-    Generative UI Engine → Already created (Node.js)
+    Generative UI Engine → Node.js
 
 Each microservice will have: ✅ REST API Endpoints
 ✅ Database Support (MongoDB / PostgreSQL)
